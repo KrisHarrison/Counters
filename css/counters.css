@@ -4,3 +4,12 @@
     width:25%;
     display:block;
 }
+
+.reset{
+    background-color: #0000FF;
+    color:#FFFF;
+    margin-left:10px;
+    border-radius:20px;
+    height:30px;
+    width: 100px;
+}
